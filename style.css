@@ -1,0 +1,14 @@
+#titulo{
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px darkblue;
+    color: rgb(155, 111, 196);
+}
+
+#cabeçalho{
+    background: linear-gradient(125.31deg, rgb(247, 153, 168) 30%, rgb(218, 63, 218) 50%, rgb(131, 5, 131) 70%);
+}
+
+.rodape{
+    background: linear-gradient(125.31deg, rgb(247, 153, 168) 30%, rgb(218, 63, 218) 50%, rgb(131, 5, 131) 70%);
+}
